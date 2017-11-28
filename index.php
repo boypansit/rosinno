@@ -89,7 +89,7 @@
           <h3 class = "panel-title"><center>Increase Reliability from 2 SOURCE to EDS</center></h3>
         </div>
         <div class = "panel-body">
-        <center><img src="rosinno/QRCode/2s.jpg" alt="Mountain View" width="180" height="180"></center>
+        <center><img src=".\QRCode\2s.jpg" alt="Mountain View" width="180" height="180"></center>
         
         </div>
         <div class="panel-footer">
@@ -103,7 +103,7 @@
           <h3 class = "panel-title"><center>Implement IoT For CP & Reduce AUC</center></h3>
         </div>
         <div class = "panel-body">
-          <center><img src="D:\AIS\Ros Inno\QRCode\IoT.jpg" alt="Mountain View" width="180" height="180"></center>
+          <center><img src=".\QRCode\IoT.jpg" alt="Mountain View" width="180" height="180"></center>
 
         </div>
         <div class="panel-footer">
@@ -117,7 +117,7 @@
           <h3 class = "panel-title"><center>Improve Wi-Fi on Yacht From TWTTx</center></h3>
         </div>
         <div class = "panel-body">
-          <center><img src="D:\AIS\Ros Inno\QRCode\WiFi.jpg" alt="Mountain View" width="180" height="180"></center>
+          <center><img src=".\QRCode\WiFi.jpg" alt="Mountain View" width="180" height="180"></center>
 
         </div>
         <div class="panel-footer">
@@ -131,7 +131,7 @@
         <h3 class = "panel-title"><center>OLT Protection<t></center></h3>
         </div>
         <div class = "panel-body">
-          <center><img src="D:\AIS\Ros Inno\QRCode\OLT.jpg" alt="Mountain View" width="180" height="180"></center>
+          <center><img src=".\QRCode\OLT.jpg" alt="Mountain View" width="180" height="180"></center>
 
         </div>
         <div class="panel-footer">
@@ -150,7 +150,7 @@
         <h3 class = "panel-title"><center>Application for tracking closure</center></h3>
         </div>
         <div class = "panel-body">
-          <center><img src="D:\AIS\Ros Inno\QRCode\closure.png" alt="Mountain View" width="180" height="180"></center>
+          <center><img src=".\QRCode\closure.png" alt="Mountain View" width="180" height="180"></center>
 
         </div>
         <div class="panel-footer">
@@ -164,7 +164,7 @@
         <h3 class = "panel-title"><center>Battery Breaker Off</center></h3>
         </div>
         <div class = "panel-body">
-          <center><img src="D:\AIS\Ros Inno\QRCode\batt.jpg" alt="Mountain View" width="180" height="180"></center>
+          <center><img src=".\QRCode\batt.jpg" alt="Mountain View" width="180" height="180"></center>
 
         </div>
         <div class="panel-footer">
@@ -178,7 +178,7 @@
         <h3 class = "panel-title"><center>APP Gu Roo MAT</center></h3>
         </div>
         <div class = "panel-body">
-          <center><img src="D:\AIS\Ros Inno\QRCode\APPGuRooMAT.png" alt="Mountain View" width="180" height="180"></center>
+          <center><img src=".\QRCode\APPGuRooMAT.png" alt="Mountain View" width="180" height="180"></center>
 
         </div>
         <div class="panel-footer">
@@ -187,7 +187,7 @@
       </div>
     </div>  
     <div class="col-lg-2 col-md-6">
-      <img src="D:\AIS\Ros Inno\icon\Infographic2.png" alt="Mountain View">  
+      <img src=".\icon\Infographic2.png" alt="Mountain View">  
     </div> 
   </div>
     
